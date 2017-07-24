@@ -1,0 +1,30 @@
+- Planes de Mejoramiento:
+    children:
+    - Introducción:
+        post: planes_de_mejoramiento/analisis_actividades
+    - Especificación de Requerimientos:
+        post: planes_de_mejoramiento/especificacion_requerimientos
+    - Diseño de Alto Nivel:
+        post: planes_de_mejoramiento/diseno_alto_nivel
+- Usuarios:
+    children:
+    - Aplicativo:
+        children:
+        - OCI:
+            post: planes_de_mejoramiento/documentacion/usuario_oci
+        - Jefe_Dependencia:
+            post: planes_de_mejoramiento/documentacion/usuario_jefed
+        - Ejecutor:
+            post: planes_de_mejoramiento/documentacion/usuario_ejecutor
+        - Analista:
+            post: planes_de_mejoramiento/documentacion/usuario_analista
+    - Soporte:
+        children:
+        - Administrador:
+            post: planes_de_mejoramiento/documentacion/usuario_administradro
+        - Super Administrador:
+            post: planes_de_mejoramiento/documentacion/usuario_soporte
+- Cargue Masivo:
+    children:
+    - Contraloria Bogota:
+        post: planes_de_mejoramiento/documentacion/usuario_administradro
