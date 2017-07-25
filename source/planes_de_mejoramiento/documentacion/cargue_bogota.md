@@ -31,7 +31,7 @@ Estos archivos representan cada uno de los objetos existente en el  sistema de s
 
 | id | ola | apellido|
 |--------|--------|--------|
-|     **datos**   |   datos2     | datos apellidos|
+|     **datos ssssssss**   |   datos2     | datos apellidos|
 
 
 Una vez demos click en el menú principal aparecerá una sección en la parte izquierda que contendrá todos los objetos que intervienen en el proceso de control y seguimiento de los planes de mejoramiento "Hallazgo, Acción, Avances".  Ver la siguiente imagen.
