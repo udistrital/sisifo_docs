@@ -27,4 +27,4 @@
 - Cargue Masivo:
     children:
     - Contraloria Bogota:
-        post: planes_de_mejoramiento/documentacion/usuario_administradro
+        post: planes_de_mejoramiento/documentacion/cargue_bogota
