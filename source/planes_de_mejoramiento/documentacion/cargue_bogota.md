@@ -27,8 +27,20 @@ Estos archivos representan cada uno de los objetos existente en el  sistema de s
 
 ![Screenshot](../img/ejemplo1.png)
 
+## ejemplo tabla
+
+| id | ola | apellido|
+|--------|--------|--------|
+|     **datos**   |   datos2     | datos apellidos|
+
+
 Una vez demos click en el menú principal aparecerá una sección en la parte izquierda que contendrá todos los objetos que intervienen en el proceso de control y seguimiento de los planes de mejoramiento "Hallazgo, Acción, Avances".  Ver la siguiente imagen.
 ![Screenshot](../img/img02_menu_plan.png)
+
+
+
+
+
 ## Planes por Área
 En esta apartado el usuario podrá crear y editar los planes ya sean internos o externos “Contraloría General, Contraloría General”.
 Todos los usuarios OCI podrán ver los planes y demás objetos pertenecientes al plan (Hallazgos, Acciones) que hayan creado sus colegas OCI, pero solo podrá editar los de su pertenencia.
