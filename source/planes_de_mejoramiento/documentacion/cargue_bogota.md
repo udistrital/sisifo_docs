@@ -17,12 +17,18 @@ En este manual abordaremos todo lo pertinente para suministrar información  en 
 
 Archivos Requeridos
 ----------------------------
-Se proporcionará un archivo  llamado plan_test_for_reports.zip el cual contendrá los siguientes archivos:
+Se proporcionará un archivo  llamado
+[plan_test_for_reports.zip](../data/plan_test_for_reports.zip)
+el cual contendrá los siguientes archivos:
 
 plan_mejoramiento.plan.csv
+
 plan_mejoramiento.hallazgo.csv
+
 plan_mejoramiento.accion.csv
+
 plan_mejoramiento.avance.csv
+
 
 ![Screenshot](../img/archivos_requeridos_1.png)
 *Figura 1. Archivo comprimido de los planes.*
