@@ -17,9 +17,7 @@ En este manual abordaremos todo lo pertinente para suministrar información  en 
 
 Archivos Requeridos
 ----------------------------
-Se proporcionará un archivo  llamado
-[plan_test_for_reports.zip](../data/plan_test_for_reports.zip)
-el cual contendrá los siguientes archivos:
+Se proporcionará un archivo  llamado [plan_test_for_reports.zip](../data/plan_test_for_reports.zip) el cual contendrá los siguientes archivos:
 
 plan_mejoramiento.plan.csv
 
@@ -41,7 +39,8 @@ Estos archivos representan cada uno de los objetos existentes en el  sistema de 
 
 Archivos CSV
 ----------------------------
-Para fines prácticos en el archivo  plan_test_for_reports.zip suministrado, se encontrará la información correspondiente  a un plan con su debido hallazgo, acciones y avances que ilustraran la manera de cómo se debe ingresar la información a dichos archivos.
+Para fines prácticos en el archivo [plan_test_for_reports.zip](../data/plan_test_for_reports.zip) 
+suministrado, se encontrará la información correspondiente  a un plan con su debido hallazgo, acciones y avances que ilustraran la manera de cómo se debe ingresar la información a dichos archivos.
 
 Los archivos CSV se deben abrir como se presenta en la Figura 3 y la Figura 4, dado que deben conservar su formato para evitar errores en la insercción del cargue másivo.
 
@@ -51,16 +50,17 @@ Los archivos CSV se deben abrir como se presenta en la Figura 3 y la Figura 4, d
 ![Screenshot](../img/ejemplo_2.png)
 *Figura 4. En LibreOffice 5.2 Calc se debe usar el formato UTF-8, delimitado por comas.*
 
-La Figura 5 ilustra la jerarquía  y contenido que poseen los archivos CSV que se encuentran en el archivo plan_test_for_reports.zip
+La Figura 5 ilustra la jerarquía  y contenido que poseen los archivos CSV que se encuentran en el archivo [plan_test_for_reports.zip](../data/plan_test_for_reports.zip)
 
 ![Screenshot](../img/ejemplo_3.png)
 *Figura 5. Jerarquía  y contenido de los archivos CSV.*
 
-###Archivo de los planes (plan_mejoramiento.plan.csv)
+Archivo de los planes (plan_mejoramiento.plan.csv)
+----------------------------
 
 El Archivo plan_mejoramiento.plan.csv cuenta con los siguientes campos:
 
-| CAMPO | DESCRIPCIÓN | 
+| CAMPO | DESCRIPCIÓN |
 |--------|--------|
 |     **id**   |  Código del plan correspondiente a un número entero unico e irrepetible.   |
 |     **nombre**   |   Palabra que designa o identifica el plan.    |
@@ -77,11 +77,12 @@ El Archivo plan_mejoramiento.plan.csv cuenta con los siguientes campos:
 |     **area_user**   |   Dependencia en la que se desempeña el auditor.     |
 |     **rol_user**   |   Representa el cargo del sujeto dentro del módulo. Sea 1 para auditor o 2 para ejecutor.    |
 
-###Archivo de los hallazgos (plan_mejoramiento.hallazgo.csv)
+Archivo de los hallazgos (plan_mejoramiento.hallazgo.csv)
+----------------------------
 
 El Archivo plan_mejoramiento.hallazgo.csv cuenta con los siguientes campos:editar
 
-| CAMPO | DESCRIPCIÓN | 
+| CAMPO | DESCRIPCIÓN |
 |--------|--------|
 |     **hallazgo_id**   |  Código del hallazgo correspondiente a un número entero unico e irrepetible.   |
 |     **plan_id**   |  Código del plan correspondiente a un número entero unico e irrepetible.   |
@@ -92,11 +93,12 @@ El Archivo plan_mejoramiento.hallazgo.csv cuenta con los siguientes campos:edita
 |     **descripcion**   |   Observación que da justificación al motivo del hallazgo.     |
 
 
-###Archivo de la acciones (plan_mejoramiento.accion.csv)
+Archivo de la acciones (plan_mejoramiento.accion.csv)
+----------------------------
 
 El Archivo plan_mejoramiento.accion.csv cuenta con los siguientes campos:editar
 
-| CAMPO | DESCRIPCIÓN | 
+| CAMPO | DESCRIPCIÓN |
 |--------|--------|
 |     **accion_id**   |  Código de la accion correspondiente a un número entero unico e irrepetible.   |
 |     **hallazgo_id**   |  Código del hallazgo correspondiente a un número entero unico e irrepetible.   |
@@ -118,11 +120,12 @@ El Archivo plan_mejoramiento.accion.csv cuenta con los siguientes campos:editar
 |     **ejecutor_email**   |   Correo electrónico del ejecutor.     |
 |     **ejecutor_rol**   |   Representa el cargo del sujeto dentro del módulo. Sea 1 para auditor o 2 para ejecutor.     |
 
-###Archivo de los avances (plan_mejoramiento.avance.csv)
+Archivo de los avances (plan_mejoramiento.avance.csv)
+----------------------------
 
 El Archivo plan_mejoramiento.avance.csv cuenta con los siguientes campos:
 
-| CAMPO | DESCRIPCIÓN | 
+| CAMPO | DESCRIPCIÓN |
 |--------|--------|
 |     **id**   |  Código del avance correspondiente a un número entero unico e irrepetible.   |
 |     **nombre**   |   Palabra que designa o identifica el avance.    |
