@@ -5,7 +5,7 @@ author: José Javier Vargas Serrato
 Sistema de Seguimiento y Control a los Planes de Mejoramiento (SCPM)
 ===================================================================
 
-Manual de usuario OCI
+Manual de usuario Auditor
 ============================
 
 [TOC]
