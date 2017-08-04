@@ -76,6 +76,7 @@ Después de esto el sistema nos mostrará el formulario de hallazgo para diligen
 
 4. Menú de mensajes
 
+actualizarrr
 ## Avances
 #### Calificar Avances
  Una vez  creado el avance por el usuario **Responsable Tareas** El usuario **OCI** deberá calificarlo, Para esto deberá ingresar al módulo de Avances, seleccionar el avance que desea calificar y click sobre este. En la siguiente imagen se ilustra la manera de hacerlo.
