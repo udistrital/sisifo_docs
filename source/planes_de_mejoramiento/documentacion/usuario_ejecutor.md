@@ -12,7 +12,7 @@ Manual de usuario Ejecutor
 
 Introducción
 --------------------------------
-En esta sección abordaremos las distintas funcionalidades del usuario Ejecutor en el módulo de planes de mejoramiento del sistema Odoo.
+En esta sección abordaremos las distintas funcionalidades del usuario Ejecutor en el módulo de planes de mejoramiento del sistema SÍSIFO.
 
 ## Planes por Área
 En esta apartado el usuario Ejecutor podrá ver todos los planes que correspondan a su área. Esto quiere decir que existirán muchos más planes que pertenecerán a otras áreas de la entidad, pero el usuario solo podrá ver los de su área.
@@ -28,21 +28,20 @@ En esta sección el Ejecutor podrá ver todos los **Hallazgos** que correspondan
 
 ![Screenshot](../img/Selection_015_actual.png)
 
-## Acciones
-En esta sección abordaremos las funciones específicas del usuario **Ejecutor** con respecto a las acciones.
+## Actividades
+En esta sección abordaremos las funciones específicas del usuario **Ejecutor** con respecto a las actividades.
 
-#### Crear Avances Desde el Módulo Acción:
+### Crear Avances Desde el Módulo Actividades:
 
-Una vez seleccionado la acción a la cual puede adicionarle avances, click en editar.
+Una vez seleccionado la actividad a la que se le adicionará avances, click en editar.
 
-Nota: el usuario **Ejecutor** solo podrá realizar un avances por mes y esto en las fechas establecidas por el usuario **Administrador**.
+Nota: el usuario **Ejecutor** solo podrá realizar un avances por mes y esto en las fechas establecidas por el usuario **Administrador o Auditor**.
 
 ![Screenshot](../img/Selection_016_actual.png)
 
 1. boton Editar
 2. Usuarios **Ejecutor** asignado a la acción.
 3. Usuario con el que está logueado.
-4. Sección de avances no habilitada.
 
 Se habilitará la sección de avances. Click en **Adicionar un elemento**
 
@@ -58,17 +57,20 @@ Click en **guardar y cerrar** de la ventana de avances, click en **guardar** de 
 ![Screenshot](../img/Selection_019_actual1.png)
 
 ## Avances
+En esta sección abordaremos las funciones específicas del usuario Ejecutor con respecto a los avances
+
+### Crear Avances
 Click en el menú del avances y luego click en el botón **Crear**.
 
-Nota: el usuario **Ejecutor** solo podrá realizar un avances por mes y esto en las fechas establecidas por el usuario **Administrador**.
+Nota: el usuario **Ejecutor** solo podrá realizar un avances por mes y esto en las fechas establecidas por el usuario **Administrador o Auditor**.
 
 ![Screenshot](../img/Selection_020_actual.png)
 
-El campo **Código Acción** nos listará las acciones que se encuentran en estado **En Progreso**
+El campo **Código Actividad**, nos listará las actividades que se encuentran en estado **En Progreso**
 
 ![Screenshot](../img/Selection_021_actual.png)
 
-En la siguiente imagen mostramos todas las Acciones registradas, resaltando su estado.
+En la siguiente imagen mostramos todas las actividades registradas, resaltando su estado.
 
 ![Screenshot](../img/Selection_022_actual.png)
 
