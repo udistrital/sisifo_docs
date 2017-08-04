@@ -14,7 +14,7 @@ Introducción
 --------------------------------
 En esta sección abordaremos las distintas funcionalidades del usuario Ejecutor en el módulo de planes de mejoramiento del sistema SÍSIFO.
 
-## Planes por Área
+## Planes por Unidades
 En esta apartado el usuario Ejecutor podrá ver todos los planes que correspondan a su área. Esto quiere decir que existirán muchos más planes que pertenecerán a otras áreas de la entidad, pero el usuario solo podrá ver los de su área.
 
 ![Screenshot](../img/Selection_013_actual.png)
