@@ -127,6 +127,11 @@ El Archivo plan_mejoramiento.avance.csv cuenta con los siguientes campos:
 
 | CAMPO | DESCRIPCIÓN |
 |--------|--------|
-|     **id**   |  Código del avance correspondiente a un número entero unico e irrepetible.   |
-|     **nombre**   |   Palabra que designa o identifica el avance.    |
+|     **avances_id**   |  Código del avance correspondiente a un número entero unico e irrepetible.   |
+|     **accion_id**   |  Código de la accion correspondiente a un número entero unico e irrepetible.   |
+|     **descripción**   |   Observación que da justificación y sustento al motivo del avance.    |
+|     **fecha_corte**   |   Momento en el tiempo máximo en el que se debe dar termino a la ejecución del avance.     |
+|     **estado**   |   Nivel de progreso del avance.     |
+|     **porcentaje**   |   No utilizado.     |
+|     **tipo_calificación**   |   No utilizado.     |
 

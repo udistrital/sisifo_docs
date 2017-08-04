@@ -2,7 +2,7 @@
 title: Documento de diseño de Alto Nivel del Proceso Registro y Seguimiento Planes de Mejoramiento
 author: José Javier Vargas Serrato
 ]]
-Sistema de Seguimiento y Control a los Planes de Mejoramiento (SCPM)
+SÍSIFO: Sistema de Seguimiento y Control a los Planes de Mejoramiento
 ===================================================================
 
 Manual de usuario Jefe Dependencia
@@ -19,7 +19,7 @@ En esta apartado el usuario jefe dependencia podrá ver todos los planes que cor
 
 En la siguiente imagen tendremos la vista de la sección **Planes por Área** de  un usuario **jefe dependencia** que pertenece al área de STRT.
 
-![Screenshot](../img/Selection_002.png)
+![Screenshot](../img/Selection_002_actual.png)
 
 1. El menú **Planes por Área**
 
@@ -27,26 +27,26 @@ En la siguiente imagen tendremos la vista de la sección **Planes por Área** de
 
 En la siguiente imagen tendremos la misma vista de la sección **Planes por Área** pero del usuario **OCI**, este si tendra acceso a todos los planes.
 
-![Screenshot](../img/Selection_003.png)
+![Screenshot](../img/Selection_003_actual.png)
 
 Vemos claramente que existen 2 planes pero que uno pertenece al área de STRT y el otro al área de DG. En el caso el jefe dependencia sólo verá los planes de su incumbencia; los que pertenecen a su área.
 
 ## Hallazgo
  En esta sección el usuario jefe dependencia podrá ver todos los **Hallazgos** que correspondan a su área.
-![Screenshot](../img/Selection_004.png)
+![Screenshot](../img/Selection_004_actual.png)
 
 ## Acciones
 En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a las acciones.
 
-#### Aceptar, Rechazar o Poner en Producción la Acciones
-Una vez el usuarios **OCI** ha creado  una **acción** y la ha puesto en el estado **por Aprobar**, es el momento en el que el usuario **jefe dependencia** interviene sobre la acción y decide si  la aprueba o la rechaza.
+#### Crear, Cancelar o Poner en Progreso la Acciones
+Los usuarios jefe y ejecutor tienen los permisos para crear  una **acción** y la  pueden poner en el estado **en Progreso** luego de crearla.
 
 - **Elegir la acción**
 ![Screenshot](../img/Selection_005.png)
 
 	1. Click en el módulo de Acción
 
-	2. Click en la acción por aprobar
+	2. Click en la acción Editar
 
 - **Cambiar el estado Para Aceptar o Rechazar**
 

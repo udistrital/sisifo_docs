@@ -75,4 +75,5 @@ En la siguiente imagen mostramos todas las Acciones registradas, resaltando su e
 En la siguiente imagen se finaliza la operación de creación de **Avances**. como podemos ver se reporta la operación en el menú de **Historia de Comunicación**
 
 ![Screenshot](../img/Selection_039_actual.png)
+![Screenshot](../img/Selection_040_actual.png)
 
