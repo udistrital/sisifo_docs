@@ -33,60 +33,87 @@ Vemos claramente que existen 2 planes pero que uno pertenece al área de STRT y 
 
 ## Hallazgo
  En esta sección el usuario jefe dependencia podrá ver todos los **Hallazgos** que correspondan a su área.
+ 
 ![Screenshot](../img/Selection_004_actual.png)
 
 ## Actividades
-En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a las acciones.
+En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a las actividades.
 
 #### Crear, Cancelar o Editar las Actividades
-Los usuarios jefe y ejecutor tienen los permisos para crear  una **actividad** y la  pueden poner en el estado **en Progreso** luego de crearla.
+Los usuarios jefe y ejecutor tienen los permisos para crear  una **actividad** y la  pueden cambiar de estado **Sin Iniciar, en Progreso, Bloqueado, Terminado, Terminado Con Retraso** luego de crearla.
 
-- **Elegir la actividad**
-![Screenshot](../img/Selection_005.png)
+**Crear la actividad**
+
+Para crear una nueva actividad
 
 	1. Click en el módulo de Actividad
 
-	2. Click en la actividad Editar
+	2. Click en la opcion Crear
 
-- **Cambiar el estado Para Aceptar o Rechazar**
+![Screenshot](../img/crear_accion _jefe.png)
 
-	En la parte superior izquierda se encontrará dos botones uno que dice **Aprobar** y el otro dice **Rechazar** para realizar la tarea de aceptación o rechazo por parte del jefe dependencia.
-	![Screenshot](../img/Selection_006.png)
+Tenemos la opción de asignar nombre al hallazgo, la causa, la actividad a efectuar, el objetivo el indicador, la Unidad de Medida, la Meta, los Recursos y las fechas de inicio y fin. Por defecto la actividad se va a asociar a un hallazgo ya creado o podemos crear el hallazgo, el cual, quedara asignado a la dependencia del jefe que este creando la actividad.
 
-	1. **Aprobar**
-
-        Al dar click en el botón **Aprobar** el estado de la actividad cambiará a **Aprobada**, cambiarán los botones y las actividades de estos; aparecerán los botones **En Progreso** y **Cancelar**, también se notificará en el menú de **Historia de Comunicación** el cambio de estado.
-
-        ![Screenshot](../img/Selection_009.png)
-		Es importante Saber que solo se podrá adicionar avances a la **actividad** en el estado **En Progreso**. Por eso una vez el usuario **jefe dependencia** ha aceptado la Acción, si desea que dicha actividad sea intervenida por el usuario **Ejecutor** del área y este adicione avances, debe estar en el estado **En Progreso**
-
-        En caso de dar click en el botón  **Cancelar**.  El estado de la acción cambiará a **cancelada**. la actividad estará disponible para lectura, pero no se podrá adicionar avances a esta.
+![Screenshot](../img/2_crear_accion _jefe.png)
 
 
-	2. **Rechazar**
+**Editar la actividad**
 
-		Al dar click en el botón **Rechazar**  el estado de la activiadad cambiará a **Rechazada** inmediatamente el sistema notificará al usuario **OCI** por medio de un correo electrónico, en el menú de **Mensajería** como en el menú de **Historia de Comunicación** del rechazo de dicha actividad.
+Para editar una actividad
 
-		En este Caso el Usuario **OCI** revisará la actividad si tiene errores o fue asignada a un área que no le correspondía, luego de esto la actividad volverá a ser asignada cambiando el estado de esta a **Por Aprobar**.
+	1. Click en el módulo de Actividad
 
-#### Asignar Ejecutor a las Actividades
-El usuario **jefe dependencia** debe asignar para cada una de las actividades a un usuario **ejecutor** de su área, este realizará los avances mensuales. Para ello estando en la actividad, damos click en editar y luego en el campo **Ejecutor**, este nos mostrará los usuarios existente del área.
+	2. Click en la actividad a Editar
+	
+![Screenshot](../img/editar_accion _jefe.png)
 
-![Screenshot](../img/Selection_010.png)
+![Screenshot](../img/2_editar_accion _jefe.png)
 
-![Screenshot](../img/Selection_012.png)
+Luego de dar clic en la opcion de Editar el jefe puede hacer un seguimiento a la actividad, a la cual si lo dispone le puede agregar un avance mediante la opcion "Añadir un elemento".
+![Screenshot](../img/3_editar_accion _jefe.png)
+
+Al añadir un avance se debe asignar un ejecutor y el auditor que hara seguimiento a la actividad, luego de editar estos campos damos clic en "Guardar y Cerrar" para cambiar de actividad o "Guardar y Nuevo" en caso de querer seguir creando avances o "Descartar" si no se quiere crear el avance.
+
+![Screenshot](../img/4_editar_accion _jefe_añadir_elemento.png)
+
+
+Los cambios se reportan a manera de comentarios en la parte final de la interfaz de edición de la actividad, en la que es posible añadir un comentario sobre la actividad y tambien se puede seguir la actividad para recibir notificaciones sobre los cambios efectuados en la actividad.
+
+![Screenshot](../img/5_editar_accion _jefe.png)
 
 ## Avances
+
+En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a los avances.
+
+**Crear el avance**
+
+Para crear un nuevo avance
+
+	1. Click en el módulo de Avances
+
+	2. Click en la opcion Crear
+
+![Screenshot](../img/crear_avances_jefe.png)
+
+Ene esta parte el jefe puede añadir una descripción y dar aprobación al avance.
+
+![Screenshot](../img/2_crear_avances_jefe.png)
+
+**Editar el avance**
+
 El usuario **jefe dependencia** al igual que el usuario **Ejecutor** podrá hacer algunas ediciones en los avances siempre y cuando este no se haya calificado. una vez calificado no se podrá editar el avances.
 
 Una vez seleccionada el avance, click en **Editar**.
 
-![Screenshot](../img/Selection_040.png)
+![Screenshot](../img/editar_avance_jefe.png)
 
-Se habilitarán los campos modificables
+![Screenshot](../img/2_editar_avance_jefe.png)
 
-![Screenshot](../img/Selection_043.png)
+Se habilitarán los campos modificables, donde se destaca que el jefe en este caso tiene la facultad para aprobar la avance, dando el visto bueno en la casilla "Aprobación por Jefe de Unidad".
 
-Los cambios se reportan en el menú **Historia de Comunicación**
+![Screenshot](../img/3_editar_avance_jefe.png)
 
-![Screenshot](../img/Selection_044.png)
+Los cambios se reportan en el menú **Historia de Comunicación**, donde se pueden añadir comentarios y con la opción "Seguir" es posible que el jefe reciba notificaciones del progreso que se haga del avance.
+
+![Screenshot](../img/4_editar_avance_jefe.png)
+

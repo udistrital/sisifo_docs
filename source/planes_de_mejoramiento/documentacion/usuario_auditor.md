@@ -68,60 +68,46 @@ Después de esto el sistema nos mostrará el formulario de hallazgo para diligen
 
 ![Screenshot](../img/img12_hallazgo_actual.png)
 
-## ****editarrrrrrrrrrrrrrrrrrrrrrrrrrrr****
-
 ## Acciones
-En esta sección el usuario podrá crear y editar Acciones asociados o pertenecientes a un Hallazgo. Esta operación podrá realizarse de dos manera; la primera es de manera similar a la definida en el apartado del hallazgo “Registrar Hallazgo Desde el Módulo Plan” Pero Con la diferencia de que usted se encontrará en el Módulo de Hallazgo y se asociará una o muchas **Acciones** a un **Hallazgo**,
-La segunda forma es desde su menú principal.
+En esta sección el usuario podrá editar Actividades asociados o pertenecientes a un Hallazgo, dandolas por **Terminadas** o **Canceladas**, asi mismo puede ver el estado de las actividades (Nuevo, En Progreso, Terminada o Cancelada)
 
-#### Registrar Acciones Desde el Módulo Hallazgo:
+![Screenshot](../img/ac_1.png)
 
-Selecciona el hallazgo al cual desea agregarle la Acción, click sobre este.
-![Screenshot](../img/img_13_accion.png)
-Click en editar.  Se nos habilitará la sección de Acción en la parte inferior.
-![Screenshot](../img/img_14_accion.png)
-Click sobre **Adicionar un elemento** para que el sistema nos proporcionará el formulario de registro de Acciones.
-![Screenshot](../img/img_15_accion.png)
-Para finalizar debe dar click en **Guardar y Cerrar** de la ventana de **Acciones**
-![Screenshot](../img/img_16_accion.png)
-Luego Click en **Guardar** en la ventana del **Hallazgo**
-![Screenshot](../img/img_17_accion.png)
+![Screenshot](../img/ac_2.png)
 
-#### Registra Acciones:
-La otra forma de registrar Acciones es desde su menú. Simplemente damos click en el menú **Acciones** luego Click en **Crear**  como no lo muestra la siguiente imagen.
-![Screenshot](../img/img_18_accion.png)
-Después de esto el sistema nos mostrará el formulario de **Acción** para realizar el debido diligenciamiento.
-El campo **Hallazgo** nos permite elegir el hallazgo al cual pertenecerá la acción a crear
-![Screenshot](../img/img_19_accion.png)
+El auditor puede hacer seguimiento a la actividad pero no puede añadir un avance si esta actividad no ha sido aprobada. en el caso de estar "En Progreso" el auditor no puede modificar la actividad, restringiendo las modificaciones al jefe y al ejecutor.
 
-#### Asignar Acción
-Luego de estar creada la acción, lo que se dispone hacer el usuario OCI es notificar esta acción al área correspondiente. Para esto en la parte superior se encontrará un botón llamado **Por Aprobar**, al dar click sobre este el estado de la acción pasará de **Nuevo** a **Por_Aprobar**, se le enviará un correo electrónico al Jefe de la dependencia que tenga asignada la Acción, y en el menú de **Mensaje** como de **Historia de Comunicación** se le notificará.
+![Screenshot](../img/ac_3.png)
 
-![Screenshot](../img/img_20_accion.png)
+![Screenshot](../img/ac_4.png)
 
-1. Botón para notificar la asignación de la acción.
+Los cambios se reportan en el menú **Historia de Comunicación**, donde se pueden añadir comentarios y con la opción "Seguir" es posible que el auditor reciba notificaciones del progreso que se haga de la actividad.
 
-2. Estados de las acciones
-
-3. Menú Historia de Comunicación
-
-4. Menú de mensajes
+![Screenshot](../img/ac_5.png)
 
 ## Avances
 #### Calificar Avances
- Una vez  creado el avance por el usuario **Responsable Tareas** El usuario **OCI** deberá calificarlo, Para esto deberá ingresar al módulo de Avances, seleccionar el avance que desea calificar y click sobre este. En la siguiente imagen se ilustra la manera de hacerlo.
-![Screenshot](../img/img_21_accion.png)
+
+ Una vez  creado el avance por el usuario jefe o por el usuario ejecutor, el usuario **OCI** deberá calificarlo, Para esto deberá ingresar al módulo de Avances, seleccionar el avance que desea calificar y click sobre este. En la siguiente imagen se ilustra la manera de hacerlo.
 
 1. click en el módulo de avances
 
 2. click en el registro de avances que se desea calificar
 
-Luego de esto el sistema mostrará la información del avance. Si damos click en el botón **Editar** nos permitirá ingresar información en la sección de **Calificación** esto corresponde a los campos **Tipo Calificación** y **% de avance**. Luego de esto Click en Guardar y hemos realizado la calificación al avance.
-![Screenshot](../img/img_22_accion.png)
+3. click en la opción Editar 
 
-El sistema reportará la calificación en el menú **Historia de Comunicación** para que los usuarios que puedan ver los avances, puedan tener un historial de las calificaciones. De igual manera al usuario **responsable tareas** que haya creado el avance se el reportará la calificación en el menú de mensajes.
-![Screenshot](../img/img_23_accion.png)
+![Screenshot](../img/av_1.png)
 
-1. Menú Historia de Comunicación
+![Screenshot](../img/av_2.png)
 
-2. Menú de mensajes
+
+
+Luego de esto el sistema mostrará la información del avance. Si damos click en el botón **Editar** nos permitirá ingresar información en la sección de **Calificación** esto corresponde a los campos **Tipo Calificación**, **% de avance** y **Observaciones**. Luego de esto Click en Guardar y hemos realizado la calificación al avance.
+
+![Screenshot](../img/av_3.png)
+
+![Screenshot](../img/av_4.png)
+
+El sistema reportará la calificación en el menú **Historia de Comunicación** para que los usuarios que puedan ver los avances, puedan tener un historial de las calificaciones. De igual manera al usuario  que haya creado el avance se le reportará la calificación en el menú de mensajes.
+![Screenshot](../img/av_5.png)
+
