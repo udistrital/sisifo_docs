@@ -23,7 +23,7 @@ plan_mejoramiento.plan.csv
 
 plan_mejoramiento.hallazgo.csv
 
-plan_mejoramiento.accion.csv
+plan_mejoramiento.actividad.csv
 
 plan_mejoramiento.avance.csv
 
@@ -40,7 +40,7 @@ Estos archivos representan cada uno de los objetos existentes en el  sistema de 
 Archivos CSV
 ----------------------------
 Para fines prácticos en el archivo [plan_test_for_reports.zip](../data/plan_test_for_reports.zip) 
-suministrado, se encontrará la información correspondiente  a un plan con su debido hallazgo, acciones y avances que ilustraran la manera de cómo se debe ingresar la información a dichos archivos.
+suministrado, se encontrará la información correspondiente  a un plan con su debido hallazgo, actividades y avances que ilustraran la manera de cómo se debe ingresar la información a dichos archivos.
 
 Los archivos CSV se deben abrir como se presenta en la Figura 3 y la Figura 4, dado que deben conservar su formato para evitar errores en la insercción del cargue másivo.
 
@@ -93,29 +93,29 @@ El Archivo plan_mejoramiento.hallazgo.csv cuenta con los siguientes campos:edita
 |     **descripcion**   |   Observación que da justificación al motivo del hallazgo.     |
 
 
-Archivo de la acciones (plan_mejoramiento.accion.csv)
+Archivo de la actividades (plan_mejoramiento.accion.csv)
 ----------------------------
 
-El Archivo plan_mejoramiento.accion.csv cuenta con los siguientes campos:editar
+El Archivo plan_mejoramiento.actividad.csv cuenta con los siguientes campos:editar
 
 | CAMPO | DESCRIPCIÓN |
 |--------|--------|
-|     **accion_id**   |  Código de la accion correspondiente a un número entero unico e irrepetible.   |
+|     **actividad_id**   |  Código de la accion correspondiente a un número entero unico e irrepetible.   |
 |     **hallazgo_id**   |  Código del hallazgo correspondiente a un número entero unico e irrepetible.   |
 |     **tipo**   |   No utilizado.    |
-|     **auditor**   |   Nombre de usuario del auditor que asigno la acción a un ejecutor.     |
+|     **auditor**   |   Nombre de usuario del auditor que asigno la actividad a un ejecutor.     |
 |     **dependencia**   |   Instancia de la Universidad responsable de ejecutar el plan.     |
-|     **accion**   |   Descripcion de la labor a ejecutar.     |
+|     **actividad**   |   Descripcion de la labor a ejecutar.     |
 |     **objetivo**   |   No utilizado.    |
-|     **indicador**   |   Indice que permite medir el progreso de la acción.     |
+|     **indicador**   |   Indice que permite medir el progreso de la actividad.     |
 |     **unidad_medida**   |   Cuantia que mide el indicador.    |
-|     **meta**   |   Fin al que se dirige la acción.    |
+|     **meta**   |   Fin al que se dirige la actividad.    |
 |     **recursos**   |   No utilizado.     |
 |     **fecha_inicio**   |   Momento en el tiempo en el que se debe comenzar	 a ejecutar la acción.     |
-|     **fecha_fin**   |   Momento en el tiempo máximo en el que se debe dar termino a la ejecución de la acción.     |
+|     **fecha_fin**   |   Momento en el tiempo máximo en el que se debe dar termino a la ejecución de la actividad.     |
 |     **descripción**   |   No utilizado.     |
 |     **denominación_medida**   |   No utilizado.     |
-|     **ejecutor_login**   |   Nombre de usuario de la persona natural encargada de ejecutar la acción.     |
+|     **ejecutor_login**   |   Nombre de usuario de la persona natural encargada de ejecutar la actividad.     |
 |     **ejecutor_name**   |   Nombre completo del ejecutor.    |
 |     **ejecutor_email**   |   Correo electrónico del ejecutor.     |
 |     **ejecutor_rol**   |   Representa el cargo del sujeto dentro del módulo. Sea 1 para auditor o 2 para ejecutor.     |
@@ -128,7 +128,7 @@ El Archivo plan_mejoramiento.avance.csv cuenta con los siguientes campos:
 | CAMPO | DESCRIPCIÓN |
 |--------|--------|
 |     **avances_id**   |  Código del avance correspondiente a un número entero unico e irrepetible.   |
-|     **accion_id**   |  Código de la accion correspondiente a un número entero unico e irrepetible.   |
+|     **actividad_id**   |  Código de la accion correspondiente a un número entero unico e irrepetible.   |
 |     **descripción**   |   Observación que da justificación y sustento al motivo del avance.    |
 |     **fecha_corte**   |   Momento en el tiempo máximo en el que se debe dar termino a la ejecución del avance.     |
 |     **estado**   |   Nivel de progreso del avance.     |

@@ -35,18 +35,18 @@ Vemos claramente que existen 2 planes pero que uno pertenece al área de STRT y 
  En esta sección el usuario jefe dependencia podrá ver todos los **Hallazgos** que correspondan a su área.
 ![Screenshot](../img/Selection_004_actual.png)
 
-## Acciones
+## Actividades
 En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a las acciones.
 
-#### Crear, Cancelar o Poner en Progreso la Acciones
-Los usuarios jefe y ejecutor tienen los permisos para crear  una **acción** y la  pueden poner en el estado **en Progreso** luego de crearla.
+#### Crear, Cancelar o Editar las Actividades
+Los usuarios jefe y ejecutor tienen los permisos para crear  una **actividad** y la  pueden poner en el estado **en Progreso** luego de crearla.
 
-- **Elegir la acción**
+- **Elegir la actividad**
 ![Screenshot](../img/Selection_005.png)
 
-	1. Click en el módulo de Acción
+	1. Click en el módulo de Actividad
 
-	2. Click en la acción Editar
+	2. Click en la actividad Editar
 
 - **Cambiar el estado Para Aceptar o Rechazar**
 
@@ -55,22 +55,22 @@ Los usuarios jefe y ejecutor tienen los permisos para crear  una **acción** y l
 
 	1. **Aprobar**
 
-        Al dar click en el botón **Aprobar** el estado de la acción cambiará a **Aprobada**, cambiarán los botones y las acciones de estos; aparecerán los botones **En Progreso** y **Cancelar**, también se notificará en el menú de **Historia de Comunicación** el cambio de estado.
+        Al dar click en el botón **Aprobar** el estado de la actividad cambiará a **Aprobada**, cambiarán los botones y las actividades de estos; aparecerán los botones **En Progreso** y **Cancelar**, también se notificará en el menú de **Historia de Comunicación** el cambio de estado.
 
         ![Screenshot](../img/Selection_009.png)
-		Es importante Saber que solo se podrá adicionar avances a la **acción** en el estado **En Progreso**. Por eso una vez el usuario **jefe dependencia** ha aceptado la Acción, si desea que dicha acción sea intervenida por el usuario **Ejecutor** del área y este adicione avances, debe estar en el estado **En Progreso**
+		Es importante Saber que solo se podrá adicionar avances a la **actividad** en el estado **En Progreso**. Por eso una vez el usuario **jefe dependencia** ha aceptado la Acción, si desea que dicha actividad sea intervenida por el usuario **Ejecutor** del área y este adicione avances, debe estar en el estado **En Progreso**
 
-        En caso de dar click en el botón  **Cancelar**.  El estado de la acción cambiará a **cancelada**. la acción estará disponible para lectura, pero no se podrá adicionar avances a esta.
+        En caso de dar click en el botón  **Cancelar**.  El estado de la acción cambiará a **cancelada**. la actividad estará disponible para lectura, pero no se podrá adicionar avances a esta.
 
 
 	2. **Rechazar**
 
-		Al dar click en el botón **Rechazar**  el estado de la acción cambiará a **Rechazada** inmediatamente el sistema notificará al usuario **OCI** por medio de un correo electrónico, en el menú de **Mensajería** como en el menú de **Historia de Comunicación** del rechazo de dicha acción.
+		Al dar click en el botón **Rechazar**  el estado de la activiadad cambiará a **Rechazada** inmediatamente el sistema notificará al usuario **OCI** por medio de un correo electrónico, en el menú de **Mensajería** como en el menú de **Historia de Comunicación** del rechazo de dicha actividad.
 
-		En este Caso el Usuario **OCI** revisará la acción si tiene errores o fue asignada a un área que no le correspondía, luego de esto la acción volverá a ser asignada cambiando el estado de esta a **Por Aprobar**.
+		En este Caso el Usuario **OCI** revisará la actividad si tiene errores o fue asignada a un área que no le correspondía, luego de esto la actividad volverá a ser asignada cambiando el estado de esta a **Por Aprobar**.
 
-#### Asignar Ejecutor a las Acciones
-El usuario **jefe dependencia** debe asignar para cada una de las acción a un usuario **ejecutor** de su área, este realizará los avances mensuales. Para ello estando en la acción, damos click en editar y luego en el campo **Ejecutor**, este nos mostrará los usuarios existente del área.
+#### Asignar Ejecutor a las Actividades
+El usuario **jefe dependencia** debe asignar para cada una de las actividades a un usuario **ejecutor** de su área, este realizará los avances mensuales. Para ello estando en la actividad, damos click en editar y luego en el campo **Ejecutor**, este nos mostrará los usuarios existente del área.
 
 ![Screenshot](../img/Selection_010.png)
 
