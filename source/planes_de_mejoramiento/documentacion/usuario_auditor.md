@@ -2,7 +2,7 @@
 title: Documento de diseño de Alto Nivel del Proceso Registro y Seguimiento Planes de Mejoramiento
 author: José Javier Vargas Serrato
 ]]
-Sistema de Seguimiento y Control a los Planes de Mejoramiento (SCPM)
+SÍSIFO: Sistema de Seguimiento y Control a los Planes de Mejoramiento
 ===================================================================
 
 Manual de usuario OCI

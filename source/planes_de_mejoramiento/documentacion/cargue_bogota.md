@@ -3,7 +3,7 @@ Title: Cargue de Información por medio de archivos CSV al Sistema de Seguimient
 Author: José Javier Vargas Serrato
 ]]
 
-Cargue de información por medio de archivos CSV al Sistema de Seguimiento y Control a los Planes de Mejoramiento (SCPM)
+Cargue de información por medio de archivos CSV al Sistema de Seguimiento y Control a los Planes de Mejoramiento (SÍSIFO)
 ===================================================================
 
 Manual de usuario
