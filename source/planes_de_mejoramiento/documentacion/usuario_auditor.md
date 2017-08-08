@@ -5,32 +5,34 @@ author: José Javier Vargas Serrato
 SÍSIFO: Sistema de Seguimiento y Control a los Planes de Mejoramiento
 ===================================================================
 
-Manual de usuario OCI
+Manual de usuario Auditor
 ============================
 
 [TOC]
 
 Introducción
 --------------------------------
-En esta sección abordaremos las distintas funcionalidades del usuario OCI en el módulo de planes de mejoramiento del sistema Odoo.
+En esta sección abordaremos las distintas funcionalidades del usuario Auditor en el módulo de planes de mejoramiento del sistema SÍSIFO.
 
 Menú principal
 ----------------------------
-Nuestro menú principal se encuentra en la parte superior de la interfaz de inicio del sistema Odoo definido como “Plan Mejoramiento Institucional” en este encontraremos todo lo correspondiente al seguimiento y control de los planes internos y externos “Contraloría de Bogotá y Contraloría General ”. Esto se ilustra en la siguiente imagen:
+El menú principal se encuentra en la parte superior de la interfaz de inicio del sistema SÍSIFO definido como “Plan Mejoramiento Institucional” en este encontraremos todo lo correspondiente al seguimiento y control de los planes internos y externos “Contraloría de Bogotá y Contraloría General ”. Esto se ilustra en la siguiente imagen:
 ![Screenshot](../img/img01_menu_principal_actual.png)
 
 Una vez demos click en el menú principal aparecerá una sección en la parte izquierda que contendrá todos los objetos que intervienen en el proceso de control y seguimiento de los planes de mejoramiento "Hallazgo, Actividad, Avances".  Ver la siguiente imagen.
 ![Screenshot](../img/img02_menu_plan_actual.png)
-## Planes por Área
-En esta apartado el usuario podrá crear y editar los planes ya sean internos o externos “Contraloría General, Contraloría General”.
-Todos los usuarios OCI podrán ver los planes y demás objetos pertenecientes al plan (Hallazgos, Actividades) que hayan creado sus colegas OCI, pero solo podrá editar los de su pertenencia.
 
-Cuando un usuario OCI crea un plan, el campo **Auditor** se alimenta automáticamente con el nombre del usuario que está haciendo la operación. Con esto se garantiza que sea de su pertenencia.
+## Planes por Unidad
+En esta apartado el usuario podrá crear y editar los planes ya sean internos o externos “Contraloria Interna, Contraloría de Bogotá, Contraloría General”.
+
+Todos los usuarios Auditor podrán ver los planes y demás objetos pertenecientes al plan (Hallazgos, Actividades) que hayan creado sus colegas OCI, pero solo podrá editar los de su pertenencia.
+
+Cuando un usuario Auditor crea un plan, el campo **Auditor** se alimenta automáticamente con el nombre del usuario que está haciendo la operación. Con esto se garantiza que sea de su pertenencia.
 
 Para registrar un plan interno o externo, podrá seleccionar el campo **Tipó** y este proporciona las tres opciones a elegir.
 
 **Nota 01:**
-**Dependiendo la selección del campo ++tipo++ en el objeto plan; los objetos relacionados “Hallazgos, Acciones” y el mismo plan, solicitará más campos o menos, esto debido a las características de cada formato para dicho plan.**
+**Dependiendo la selección del campo tipo en el objeto plan; los objetos relacionados “Hallazgos, Acciones” y el mismo plan, solicitará más campos o menos, esto debido a las características de cada formato para dicho plan.**
 #### Registrar Plan Interno
 ![Screenshot](../img/img03_plan_interno_actual.png)
 
