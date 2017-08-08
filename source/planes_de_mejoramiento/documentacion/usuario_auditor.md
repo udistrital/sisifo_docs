@@ -23,7 +23,7 @@ Una vez demos click en el menú principal aparecerá una sección en la parte iz
 ![Screenshot](../img/img02_menu_plan_actual.png)
 
 ## Planes por Unidad
-En esta apartado el usuario podrá crear y editar los planes ya sean internos o externos “Contraloria Interna, Contraloría de Bogotá, Contraloría General”.
+En esta apartado el usuario Auditor podrá crear y editar los planes ya sean internos o externos “Contraloria Interna, Contraloría de Bogotá, Contraloría General”.
 
 Todos los usuarios Auditor podrán ver los planes y demás objetos pertenecientes al plan (Hallazgos, Actividades) que hayan creado sus colegas OCI, pero solo podrá editar los de su pertenencia.
 
@@ -43,7 +43,7 @@ Para registrar un plan interno o externo, podrá seleccionar el campo **Tipó** 
 ![Screenshot](../img/img05_plan_general_actual.png)
 
 ## Hallazgo
-En esta sección el usuario podrá crear y editar hallazgos asociados o pertenecientes a un plan de mejoramiento. Esta operación podrá realizarse de dos manera:
+En esta sección el usuario Auditor podrá crear y editar hallazgos asociados o pertenecientes a un plan de mejoramiento. Esta operación podrá realizarse de dos manera:
 
 #### Registrar Hallazgo Desde el Módulo Plan:
 Una vez registrado el plan de mejoramiento o los planes, seleccionamos a cual de todos los existentes deseamos agregarle  hallazgos.
@@ -53,7 +53,7 @@ Click sobre este y luego en el botón Editar. Se nos habilitará la sección de 
 ![Screenshot](../img/img06_hallazgo_desde_plan_actual1.png)
 ![Screenshot](../img/img06_hallazgo_desde_plan_actual2.png)
 
-Una vez demos click sobre **Adicionar un elemento** el sistema nos proporcionará el formulario de registro para los hallazgos. Este formulario cuenta con una sección descriptiva del plan al cual va a pertenecer este hallazgo en la parte superior. En la parte inferior encontramos los campos correspondiente al hallazgo.
+Una vez demos click sobre **Adicionar un elemento** el sistema nos proporcionará el formulario de registro para los hallazgos. Este formulario cuenta con una sección descriptiva del plan al cual va a pertenecer este hallazgo, sección "Infromación del plan" en la parte superior. En la parte inferior encontramos los campos correspondiente al hallazgo.
 ![Screenshot](../img/img08_hallazgo_desde_plan_actual.png)
 
 Para finalizar debe dar click en **Guardar y Cerrar** de la ventana de **Hallazgo **
@@ -70,27 +70,23 @@ Después de esto el sistema nos mostrará el formulario de hallazgo para diligen
 
 ![Screenshot](../img/img12_hallazgo_actual.png)
 
-## Acciones
-En esta sección el usuario podrá editar Actividades asociados o pertenecientes a un Hallazgo, dandolas por **Terminadas** o **Canceladas**, asi mismo puede ver el estado de las actividades (Nuevo, En Progreso, Terminada o Cancelada)
+## Actividad
+En esta sección el usuario Auditor podrá cambiar el estado de las Actividades asociados o pertenecientes a un Hallazgo, dandolas por **Terminadas** o **Canceladas**, esto dependiendo del cumplimiento y culminación de los Avances que sustenta la Actividad.
 
 ![Screenshot](../img/ac_1.png)
 
 ![Screenshot](../img/ac_2.png)
 
-El auditor puede hacer seguimiento a la actividad pero no puede añadir un avance si esta actividad no ha sido aprobada. en el caso de estar "En Progreso" el auditor no puede modificar la actividad, restringiendo las modificaciones al jefe y al ejecutor.
+Podra hacer seguimiento a la actividad, esto quiere decir que puede consultar las actividades, agruparlas o simplemente comentarlas en la seccion de **Historia de Comunicación** que se encuentra en la parte inferir de cada actividad. Por ninguna razon podra editar la infromación de la actividad creada.
 
-![Screenshot](../img/ac_3.png)
-
-![Screenshot](../img/ac_4.png)
-
-Los cambios se reportan en el menú **Historia de Comunicación**, donde se pueden añadir comentarios y con la opción "Seguir" es posible que el auditor reciba notificaciones del progreso que se haga de la actividad.
+Los cambios o actualizaciones que se realizen sobre cada Actividad se reportarán en el menú **Historia de Comunicación**, donde se pueden añadir comentarios y con la opción "Seguir" es posible que el usuario que se registre como seguidor reciba estas mismas notificaciones del progreso que se haga de la actividad al correo.
 
 ![Screenshot](../img/ac_5.png)
 
 ## Avances
 #### Calificar Avances
 
- Una vez  creado el avance por el usuario jefe o por el usuario ejecutor, el usuario **OCI** deberá calificarlo, Para esto deberá ingresar al módulo de Avances, seleccionar el avance que desea calificar y click sobre este. En la siguiente imagen se ilustra la manera de hacerlo.
+ Una vez  creado el avance por el usuario jefe o por el usuario ejecutor, el usuario **Auditor** deberá calificarlo, Para esto deberá ingresar al módulo de Avances, seleccionar el avance que desea calificar y click sobre este. En la siguiente imagen se ilustra la manera de hacerlo.
 
 1. click en el módulo de avances
 
@@ -102,11 +98,7 @@ Los cambios se reportan en el menú **Historia de Comunicación**, donde se pued
 
 ![Screenshot](../img/av_2.png)
 
-
-
 Luego de esto el sistema mostrará la información del avance. Si damos click en el botón **Editar** nos permitirá ingresar información en la sección de **Calificación** esto corresponde a los campos **Tipo Calificación**, **% de avance** y **Observaciones**. Luego de esto Click en Guardar y hemos realizado la calificación al avance.
-
-![Screenshot](../img/av_3.png)
 
 ![Screenshot](../img/av_4.png)
 
