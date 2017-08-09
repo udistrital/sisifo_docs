@@ -24,15 +24,23 @@ Si damos click sobre alguno de los registro de planes que aparecen en el listado
 ![Screenshot](../img/Selection_014_actual.png)
 
 ## Hallazgo
+
 De igual manera podra ver todos los Hallazgo de las distintas unidades.
 
 ![Screenshot](../img/Selection_015_actual.png)
 
 ## Actividades
+
 Una de las funcione primoldiales de usuario **Ejecutor** es el registro de las activiades, que desarrollará la unidad para dar solución al hallazgo.
 
 ### Crear Actividad:
-Falta AAAAAAAAAAAAAAAAAA
+
+![Screenshot](../img/crear_actividad_ejecutor_.png)
+
+![Screenshot](../img/crear_actividad_ejecutor_2.png)
+
+![Screenshot](../img/crear_actividad_ejecutor_3.png)
+
 
 ### Crear Avances Desde el Módulo Actividades:
 
