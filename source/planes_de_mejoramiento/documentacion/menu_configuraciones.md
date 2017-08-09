@@ -5,44 +5,20 @@ author: José Javier Vargas Serrato
 Sistema de Seguimiento y Control a los Planes de Mejoramiento (SCPM)
 ===================================================================
 
-Manual de usuario Administrador
+Manual de usuario Super Admin
 ============================
 
 [TOC]
 
 Introducción
 --------------------------------
-En esta sección abordaremos las distintas funcionalidades del usuario Administrador en el módulo de planes de mejoramiento del sistema Odoo.
+En esta sección abordaremos algunas funcionalidades del usuario **Super Admin** en el sistema Odoo, este usuario es muy distinto al usuario **administrador** del módulo planes de mejoramiento. El primero abarca la parte administrativa del sistema Odoo en general, el segundo abarca la administración del módulo únicamente de planes de mejoramiento.
 
-## Planes por Área
-En esta apartado como en el de **Hallazgos**, **Acciones** y **Avances** el usuario Administrador podrá crear, leer, eliminar y exportar objetos.  La creación, lectura y exportación ya se detalló en el apartado de usuarios. [Registrar Plan Interno](/planes_de_mejoramiento/documentacion/usuario_oci.html)
-
-En esta sección explicaremos la eliminación de registros del objeto **Plan**.
-
-![Screenshot](../img/Selection_023.png)
-
-## Hallazgo
-De igual manera, como se eliminaron los registros de **planes por área** se elimina los registros de hallazgos.
-
-![Screenshot](../img/Selection_024.png)
-Para la creación, lectura de hallazgo visitar el siguiente link.  [Hallazgo](/planes_de_mejoramiento/documentacion/usuario_oci.html)
-
-## Acciones
-De igual manera, como se eliminaron los registros de **planes por área** se elimina los registros de hallazgos.
-
-![Screenshot](../img/Selection_025.png)
-
-Para la creación, lectura de Acciones visitar el siguiente link. [Acciones](/planes_de_mejoramiento/documentacion/usuario_oci.html)
-
-## Avances
-De igual manera como como se eliminan los registros de planes por área se haze con los de avances.
-[falta]
-
-## Menú de configuraciones:
-Este menú es de uso exclusivo de los usuarios administradores. En este, el usuario podrá parametrizar los objetos Tipo Calificación, Origen Plan Mejoramiento, Procesos, Abrir Registros de Avances, objetos que están involucrados en todo el procesos de seguimiento y control a los planes de mejoramiento.
+## Menú de Configuración:
+<p style="text-align: justify;"/>Este menú es de uso exclusivo por los Usuarios Administrador. El usuario podrá parametrizar los objetos Tipo Calificación, Origen Plan Mejoramiento, Proceso, Abrir Registro de Avances, cabe considerar que dichos objetos se encuentran involucrados en todo el proceso de seguimiento y control relacionados a los planes de mejoramiento.
 
 ### Tipo Calificación
-El tipo de calificación es un valor establecido para que los usuarios oci establezcan en la cuantificación de los avances mensuales. Al existir 3 tipos de planes, existirán distintas calificaciones para cada uno de estos.
+<p style="text-align: justify;"/>El tipo de calificación es un valor establecido para que los usuarios oci establezcan en la cuantificación de los avances mensuales. Al existir 3 tipos de planes, existirán distintas calificaciones para cada uno de estos.
 
 Click en el menú **Tipo Calificación**, verá el listado de calificaciones existente.
 
