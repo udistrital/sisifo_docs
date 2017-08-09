@@ -32,7 +32,7 @@ En la siguiente imagen tendremos la vista de la sección **Planes por Área** de
 ![Screenshot](../img/Selection_004_actual.png)
 
 ## Actividades
-En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a las actividades.
+En este apartado el usuario Jefe Dependencia podrá Crear, Editar Actividades y Crear Avances desde la opcion de edición de la Actividad.
 
 ### Crear Actividades
 
@@ -44,7 +44,7 @@ Para crear una nueva actividad
 
 ![Screenshot](../img/crear_accion_jefe.png)
 
-Los campos de color morado son obligatorios.
+En cada uno de los formularios de los distintos objetos del sistema, los campos resaltados de color morado claro indican que son obligatorios.
 
 ![Screenshot](../img/2_crear_accion_jefe.png)
 
@@ -60,7 +60,7 @@ Para editar una actividad
 	
 ![Screenshot](../img/editar_accion_jefe.png)
 
-La Actividad se podrá editar siempre y cuando el estado de esta este en **nuevo**. una vez cambia a estado **En Progreso** no se podra cambiar información de los campos.
+La Actividad se podrá editar siempre y cuando el estado este en **nuevo**. una vez cambia a estado **En Progreso** no se podra cambiar información de los campos.
 
 ![Screenshot](../img/2_editar_accion_jefe.png)
 
@@ -74,14 +74,14 @@ Cuando estamos editando una actividad tenemos la opción de agregar un avances a
 
 ![Screenshot](../img/3_editar_accion_jefe.png)
 
-El sistema nos proporcionará el formulario de avances, este cuenta con una sección en la parte superior con la información relacionada de la actividad y en la parte inferior se encuentra la sección del avance donde diligenciaremos la información de este.
+El sistema nos proporcionará el formulario de avances, este cuenta con una sección en la parte superior con la información relacionada de la actividad y en la parte inferior la sección del avance donde diligenciaremos la información de este.
 
 ![Screenshot](../img/4_editar_accion_jefe_añadir_elemento.png)
 
 
 ## Avances
 
-En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a los avances.
+En esta sección el usuario jefe dependencia podrá crear y editar avances.
 
 **Crear Avance**
 
