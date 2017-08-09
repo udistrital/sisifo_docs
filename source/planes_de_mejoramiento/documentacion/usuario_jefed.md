@@ -27,18 +27,14 @@ En la siguiente imagen tendremos la vista de la sección **Planes por Área** de
 
 
 ## Hallazgo
- En esta sección el usuario jefe dependencia podrá ver todos los **Hallazgos** que existan de su unidad y demas unidades. Podrá hacer uso de los filtros y agrupaciones para solo ver los que le intereza.
+ En esta sección el usuario jefe dependencia podrá ver todos los **Hallazgos** que existan de su unidad y demas unidades. Podrá hacer uso de los filtros y agrupaciones para solo ver los que le interesa.
 
 ![Screenshot](../img/Selection_004_actual.png)
 
 ## Actividades
 En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a las actividades.
 
-### Crear, Cancelar o Editar las Actividades
-
-Los usuarios **jefe ** y **ejecutor** tienen los permisos para crear una **actividad**.
-
-### Crear la actividad
+### Crear Actividades
 
 Para crear una nueva actividad
 
@@ -52,8 +48,7 @@ Los campos de color morado son obligatorios.
 
 ![Screenshot](../img/2_crear_accion_jefe.png)
 
-
-**Editar la actividad**
+### Editar la actividad
 
 Para editar una actividad
 
@@ -69,51 +64,54 @@ La Actividad se podrá editar siempre y cuando el estado de esta este en **nuevo
 
 ![Screenshot](../img/2_editar_accion_jefe.png)
 
+Cuando se **Crea** o se **Actualiza** una actividad, en el menú de **Historia de comunicación** se reportan la información mas relevante de esta.
+
+![Screenshot](../img/5_editar_accion_jefe.png)
+
+### Crear Avances Desde el Módulo Actividades:
+
+Cuando estamos editando una actividad tenemos la opción de agregar un avances a esta actividad. Simplemente nos diriguimos a la pestaña de avances y clic en **Añadir un elemento**
 
 ![Screenshot](../img/3_editar_accion_jefe.png)
 
-Al añadir un avance se debe asignar un ejecutor y el auditor que hara seguimiento a la actividad, luego de editar estos campos damos clic en "Guardar y Cerrar" para cambiar de actividad o "Guardar y Nuevo" en caso de querer seguir creando avances o "Descartar" si no se quiere crear el avance.
+El sistema nos proporcionará el formulario de avances, este cuenta con una sección en la parte superior con la información relacionada de la actividad y en la parte inferior se encuentra la sección del avance donde diligenciaremos la información de este.
 
 ![Screenshot](../img/4_editar_accion_jefe_añadir_elemento.png)
 
-
-Los cambios se reportan a manera de comentarios en la parte final de la interfaz de edición de la actividad, en la que es posible añadir un comentario sobre la actividad y tambien se puede seguir la actividad para recibir notificaciones sobre los cambios efectuados en la actividad.
-
-![Screenshot](../img/5_editar_accion_jefe.png)
 
 ## Avances
 
 En esta sección abordaremos las funciones específicas del usuario jefe dependencia con respecto a los avances.
 
-**Crear el avance**
+**Crear Avance**
 
 Para crear un nuevo avance
 
-	1. Click en el módulo de Avances
+1. Click en el módulo de Avances
 
-	2. Click en la opcion Crear
+2. Click en la opcion Crear
 
 ![Screenshot](../img/crear_avances_jefe.png)
 
-Ene esta parte el jefe puede añadir una descripción y dar aprobación al avance.
+El jefe dependencia deberá seleccionar la Actividad a la cual quiere asociarle el avance, diligenciará los campos  de **descripción** y **Aprobación por Jefe de Unidad **.
 
 ![Screenshot](../img/2_crear_avances_jefe.png)
 
 **Editar el avance**
 
-El usuario **jefe dependencia** al igual que el usuario **Ejecutor** podrá hacer algunas ediciones en los avances siempre y cuando este no se haya calificado. una vez calificado no se podrá editar el avances.
+Cuando el avance a sido creado por el usuario **Ejecutor**, este avance solo podra ser calificado por el usuario **Auditor** una vez se halla realizado la aprobación del usuario **Jefe Dependencia** de esta unidad. dando por entender en el sistema que el jefe esta consiente y enterado de la realización de las actividades por sus usuarios ejecutores asignados.
 
-Una vez seleccionada el avance, click en **Editar**.
+Seleccione el Avance, click en **Editar**.
 
 ![Screenshot](../img/editar_avance_jefe.png)
 
 ![Screenshot](../img/2_editar_avance_jefe.png)
 
-Se habilitarán los campos modificables, donde se destaca que el jefe en este caso tiene la facultad para aprobar la avance, dando el visto bueno en la casilla "Aprobación por Jefe de Unidad".
+Se habilitarán los campos editables y obligatorios.
 
 ![Screenshot](../img/3_editar_avance_jefe.png)
 
-Los cambios se reportan en el menú **Historia de Comunicación**, donde se pueden añadir comentarios y con la opción "Seguir" es posible que el jefe reciba notificaciones del progreso que se haga del avance.
+El formulario de avances tambien cuenta con la seccion de **Historia de Comunicación**, donde cada vez que se crea o se actuliza el avance, esta información es creada automaticamente. Tambien se pueden añadir comentarios y con la opción "Seguir" es posible que el jefe reciba al correo cada una de estas notificaciones.
 
 ![Screenshot](../img/4_editar_avance_jefe.png)
 
