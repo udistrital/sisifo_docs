@@ -15,7 +15,7 @@ Introducción
 En esta sección abordaremos las distintas funcionalidades del usuario Ejecutor en el módulo de planes de mejoramiento del sistema SÍSIFO.
 
 ## Planes por Unidades
-En esta apartado el usuario Ejecutor podrá ver todos los planes que correspondan a su área. Esto quiere decir que existirán muchos más planes que pertenecerán a otras áreas de la entidad, pero el usuario solo podrá ver los de su área.
+En esta apartado el usuario Ejecutor podrá ver todos los planes que existan de su unidad y demas unidades. Podrá hacer uso de los filtros y agrupaciones para solo ver los que le interesa.
 
 ![Screenshot](../img/Selection_013_actual.png)
 
@@ -24,12 +24,15 @@ Si damos click sobre alguno de los registro de planes que aparecen en el listado
 ![Screenshot](../img/Selection_014_actual.png)
 
 ## Hallazgo
-En esta sección el Ejecutor podrá ver todos los **Hallazgos** que correspondan a su área.
+De igual manera podra ver todos los Hallazgo de las distintas unidades.
 
 ![Screenshot](../img/Selection_015_actual.png)
 
 ## Actividades
-En esta sección abordaremos las funciones específicas del usuario **Ejecutor** con respecto a las actividades.
+Una de las funcione primoldiales de usuario **Ejecutor** es el registro de las activiades, que desarrollará la unidad para dar solución al hallazgo.
+
+### Crear Actividad:
+Falta AAAAAAAAAAAAAAAAAA
 
 ### Crear Avances Desde el Módulo Actividades:
 
@@ -57,7 +60,8 @@ Click en **guardar y cerrar** de la ventana de avances, click en **guardar** de 
 ![Screenshot](../img/Selection_019_actual1.png)
 
 ## Avances
-En esta sección abordaremos las funciones específicas del usuario Ejecutor con respecto a los avances
+Otra de las funcione primoldiales de usuario **Ejecutor** es el registro de los avances, que desarrollará la unidad para soportar mensualmente el trabajo realizado para cumplir con la actividad definida.
+
 
 ### Crear Avances
 Click en el menú del avances y luego click en el botón **Crear**.
