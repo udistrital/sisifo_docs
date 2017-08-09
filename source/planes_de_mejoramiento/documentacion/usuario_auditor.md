@@ -12,17 +12,22 @@ Manual de usuario Auditor
 
 Introducción
 --------------------------------
+
 En esta sección abordaremos las distintas funcionalidades del usuario Auditor en el módulo de planes de mejoramiento del sistema SÍSIFO.
 
 Menú principal
 ----------------------------
+
 El menú principal se encuentra en la parte superior de la interfaz de inicio del sistema SÍSIFO definido como “Plan Mejoramiento Institucional” en este encontraremos todo lo correspondiente al seguimiento y control de los planes internos y externos “Contraloría de Bogotá y Contraloría General ”. Esto se ilustra en la siguiente imagen:
+
 ![Screenshot](../img/img01_menu_principal_actual.png)
 
 Una vez demos click en el menú principal aparecerá una sección en la parte izquierda que contendrá todos los objetos que intervienen en el proceso de control y seguimiento de los planes de mejoramiento "Hallazgo, Actividad, Avances".  Ver la siguiente imagen.
+
 ![Screenshot](../img/img02_menu_plan_actual.png)
 
 ## Planes por Unidad
+
 En esta apartado el usuario Auditor podrá crear y editar los planes ya sean internos o externos “Contraloria Interna, Contraloría de Bogotá, Contraloría General”.
 
 Todos los usuarios Auditor podrán ver los planes y demás objetos pertenecientes al plan (Hallazgos, Actividades) que hayan creado sus colegas OCI, pero solo podrá editar los de su pertenencia.
@@ -33,37 +38,51 @@ Para registrar un plan interno o externo, podrá seleccionar el campo **Tipó** 
 
 **Nota 01:**
 **Dependiendo la selección del campo tipo en el objeto plan; los objetos relacionados “Hallazgos, Acciones” y el mismo plan, solicitará más campos o menos, esto debido a las características de cada formato para dicho plan.**
-#### Registrar Plan Interno
+
+### Registrar Plan Interno
+
 ![Screenshot](../img/img03_plan_interno_actual.png)
 
-#### Registrar Plan Externo Contraloría Bogotá
+### Registrar Plan Externo Contraloría Bogotá
+
 ![Screenshot](../img/img04_plan_bogota_actual.png)
 
-#### Registrar Plan Externo Contraloría General
+### Registrar Plan Externo Contraloría General
+
 ![Screenshot](../img/img05_plan_general_actual.png)
 
 ## Hallazgo
+
 En esta sección el usuario Auditor podrá crear y editar hallazgos asociados o pertenecientes a un plan de mejoramiento. Esta operación podrá realizarse de dos manera:
 
-#### Registrar Hallazgo Desde el Módulo Plan:
+### Registrar Hallazgo Desde el Módulo Plan:
+
 Una vez registrado el plan de mejoramiento o los planes, seleccionamos a cual de todos los existentes deseamos agregarle  hallazgos.
+
 ![Screenshot](../img/img07_hallazgo_desde_plan_actual.png)
 
 Click sobre este y luego en el botón Editar. Se nos habilitará la sección de hallazgos en la parte inferior.
+
 ![Screenshot](../img/img06_hallazgo_desde_plan_actual1.png)
+
 ![Screenshot](../img/img06_hallazgo_desde_plan_actual2.png)
 
 Una vez demos click sobre **Adicionar un elemento** el sistema nos proporcionará el formulario de registro para los hallazgos. Este formulario cuenta con una sección descriptiva del plan al cual va a pertenecer este hallazgo, sección "Infromación del plan" en la parte superior. En la parte inferior encontramos los campos correspondiente al hallazgo.
+
 ![Screenshot](../img/img08_hallazgo_desde_plan_actual.png)
 
 Para finalizar debe dar click en **Guardar y Cerrar** de la ventana de **Hallazgo **
+
 ![Screenshot](../img/img09_hallazgo_desde_plan_actual.png)
 
 Luego Click en **Guardar** en la ventana del **Plan**
+
 ![Screenshot](../img/img10_hallazgo_desde_plan_actual.png)
 
-#### Registra Hallazgo:
+### Registra Hallazgo:
+
 La otra forma de registrar hallazgo es desde su menú. Simplemente damos click en el menú **Hallazgo** luego Click en **Crear**  como lo muestra la siguiente imagen.
+
 ![Screenshot](../img/img11_hallazgo_actual.png)
 
 Después de esto el sistema nos mostrará el formulario de hallazgo para diligenciar. El campo **Plan Mejoramiento** nos permite elegir el plan al cual pertenecerá el hallazgo a crear.
@@ -71,6 +90,7 @@ Después de esto el sistema nos mostrará el formulario de hallazgo para diligen
 ![Screenshot](../img/img12_hallazgo_actual.png)
 
 ## Actividad
+
 En esta sección el usuario Auditor podrá cambiar el estado de las Actividades asociados o pertenecientes a un Hallazgo, dandolas por **Terminadas** o **Canceladas**, esto dependiendo del cumplimiento y culminación de los Avances que sustenta la Actividad.
 
 ![Screenshot](../img/ac_1.png)
@@ -84,7 +104,8 @@ Los cambios o actualizaciones que se realizen sobre cada Actividad se reportará
 ![Screenshot](../img/ac_5.png)
 
 ## Avances
-#### Calificar Avances
+
+### Calificar Avances
 
  Una vez  creado el avance por el usuario jefe o por el usuario ejecutor, el usuario **Auditor** deberá calificarlo, Para esto deberá ingresar al módulo de Avances, seleccionar el avance que desea calificar y click sobre este. En la siguiente imagen se ilustra la manera de hacerlo.
 
@@ -92,7 +113,7 @@ Los cambios o actualizaciones que se realizen sobre cada Actividad se reportará
 
 2. click en el registro de avances que se desea calificar
 
-3. click en la opción Editar 
+3. click en la opción Editar
 
 ![Screenshot](../img/av_1.png)
 
