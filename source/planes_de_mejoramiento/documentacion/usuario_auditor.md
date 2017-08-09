@@ -20,8 +20,8 @@ Menú principal
 
 El menú principal se encuentra en la parte superior de la interfaz de inicio del sistema SÍSIFO definido como “Plan Mejoramiento Institucional” en este encontraremos todo lo correspondiente al seguimiento y control de los planes internos y externos “Contraloría de Bogotá y Contraloría General ”. Esto se ilustra en la siguiente imagen:
 
-![Screenshot](../img/img01_menu_principal_actual.png)
-*Figura 1. Menu principal.*
+![Figura 1. Menu principal](../img/img01_menu_principal_actual.png)
+
 
 Una vez demos click en el menú principal aparecerá una sección en la parte izquierda que contendrá todos los objetos que intervienen en el proceso de control y seguimiento de los planes de mejoramiento "Hallazgo, Actividad, Avances".  Ver la siguiente imagen.
 
