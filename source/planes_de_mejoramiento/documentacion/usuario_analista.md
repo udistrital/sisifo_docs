@@ -12,7 +12,7 @@ Manual de usuario Analista
 
 Introducción
 --------------------------------
-En esta sección abordaremos las distintas funcionalidades del usuario Analista en el módulo de planes de mejoramiento del sistema Odoo.
+En esta sección abordaremos las distintas funcionalidades del usuario Analista en el módulo de planes de mejoramiento del sistema SÍSIFO.
 
 ## Planes por Área
 

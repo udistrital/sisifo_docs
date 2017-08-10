@@ -15,7 +15,7 @@
         - Soporte:
             children:
             - Administrador:
-                post: planes_de_mejoramiento/documentacion/usuario_administradro
+                post: planes_de_mejoramiento/documentacion/usuario_administrador
             - Super Administrador:
                 post: planes_de_mejoramiento/documentacion/usuario_soporte
     - Cargue Masivo:
