@@ -33,6 +33,7 @@ En la siguiente imagen tendremos la vista de la sección **Planes por Área** de
 ![Figura 2. Hallazgos desde el usuario jefe](../img/Selection_004_actual.png)
 
 ## Actividades
+
 En este apartado el usuario Jefe Dependencia podrá Crear, Editar Actividades y Crear Avances desde la opcion de edición de la Actividad.
 
 ### Crear Actividades
@@ -83,7 +84,7 @@ El sistema nos proporcionará el formulario de avances, este cuenta con una secc
 
 En esta sección el usuario jefe dependencia podrá crear y editar avances.
 
-**Crear Avance**
+### Crear Avance
 
 Para crear un nuevo avance
 
@@ -97,7 +98,7 @@ El jefe dependencia deberá seleccionar la Actividad a la cual quiere asociarle 
 
 ![Figura 11. Diligenciar información del avance desde su módulo](../img/2_crear_avances_jefe.png)
 
-**Editar el avance**
+### Editar el avance
 
 Cuando el avance a sido creado por el usuario **Ejecutor**, este avance solo podra ser calificado por el usuario **Auditor** una vez se halla realizado la aprobación del usuario **Jefe Dependencia** de esta unidad. dando por entender en el sistema que el jefe esta consiente y enterado de la realización de las actividades por sus usuarios ejecutores asignados.
 
