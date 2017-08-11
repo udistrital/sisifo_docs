@@ -14,6 +14,11 @@ Introducción
 --------------------------------
 En esta sección abordaremos las distintas funcionalidades del usuario Analista en el módulo de planes de mejoramiento del sistema SÍSIFO.
 
+Manual de Herramientas de Usabilidad
+--------------------------------
+Para conocer acerca de las ayudas, filtros, mensajes internos, adjuntar archivo y demás herramientas del sistema seguir este link [Manual de Herramientas de Usabilidad](/planes_de_mejoramiento/documentacion/guia_herramientas_usabilidad.html)
+
+
 ## Planes por Área
 
 En esta apartado el usuario **Analista** podrá ver todos los planes de las distintas áreas del instituto, ya que función es de acompañamiento y seguimiento.

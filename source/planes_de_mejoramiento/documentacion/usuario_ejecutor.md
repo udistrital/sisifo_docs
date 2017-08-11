@@ -14,6 +14,11 @@ Introducción
 --------------------------------
 En esta sección abordaremos las distintas funcionalidades del usuario Ejecutor en el módulo de planes de mejoramiento del sistema SÍSIFO.
 
+Manual de Herramientas de Usabilidad
+--------------------------------
+Para conocer acerca de las ayudas, filtros, mensajes internos, adjuntar archivo y demás herramientas del sistema seguir este link [Manual de Herramientas de Usabilidad](/planes_de_mejoramiento/documentacion/guia_herramientas_usabilidad.html)
+
+
 ## Planes por Unidades
 
 En esta apartado el usuario Ejecutor podrá ver todos los planes que existan de su unidad y demas unidades. Podrá hacer uso de los filtros y agrupaciones para solo ver los que le interesa.

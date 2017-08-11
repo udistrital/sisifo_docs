@@ -12,12 +12,16 @@ Manual de usuario Auditor
 
 Introducción
 --------------------------------
-
 En esta sección abordaremos las distintas funcionalidades del usuario Auditor en el módulo de planes de mejoramiento del sistema SÍSIFO.
+
+
+Manual de Herramientas de Usabilidad
+--------------------------------
+Para conocer acerca de las ayudas, filtros, mensajes internos, adjuntar archivo y demás herramientas del sistema seguir este link [Manual de Herramientas de Usabilidad](/planes_de_mejoramiento/documentacion/guia_herramientas_usabilidad.html)
+
 
 Menú principal
 ----------------------------
-
 El menú principal se encuentra en la parte superior de la interfaz de inicio del sistema SÍSIFO definido como “Plan Mejoramiento Institucional” en este encontraremos todo lo correspondiente al seguimiento y control de los planes internos y externos “Contraloría de Bogotá y Contraloría General ”. Esto se ilustra en la siguiente imagen:
 
 ![Figura 1. Menu principal](../img/img01_menu_principal_actual.png)
