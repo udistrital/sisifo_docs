@@ -18,6 +18,8 @@
                 post: planes_de_mejoramiento/documentacion/usuario_administrador
             - Super Administrador:
                 post: planes_de_mejoramiento/documentacion/usuario_soporte
+            - Herramientas de Usabilidad:
+                post: planes_de_mejoramiento/documentacion/guia_herramientas_usabilidad
     - Cargue Masivo:
         children:
         - Contraloria Bogota:
