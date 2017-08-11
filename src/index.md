@@ -5,7 +5,7 @@ description: The default PyKwiki startup page.
 tags: [pykwiki]
 ]]
 
-# Welcome!
+# Bienvenidos a Documentación OAS!
 
 Thanks for installing PyKwiki!
 
