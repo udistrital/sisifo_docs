@@ -2,22 +2,13 @@
 title: Welcome
 author: PyKwiki
 description: The default PyKwiki startup page.
-tags: [pykwiki]
+tags: [OAS]
 ]]
 
 # Bienvenidos a Documentación OAS!
 
-Thanks for installing PyKwiki!
+Aqui encontraras manuales de usuarios y documentación relacionada con cada uno de los sistemas. 
 
-This page can be found in `source/index.md`.
 
-Where to go from here:
-
-* [Official Documentation](http://pykwiki.nullism.com/)
-* [PyKwiki - Authoring](http://pykwiki.nullism.com/authoring.html)
-* [PyKwiki - config.yaml](http://pykwiki.nullism.com/config.yaml.html)
-* [PyKwiki - links.yaml](http://pykwiki.nullism.com/links.yaml.html)
-
-Report issues at [GitHub - PyKwiki](https://github.com/nullism/pykwiki)
-
+**SÍSIFO Sistema de Planes de Mejoramiento**
 
