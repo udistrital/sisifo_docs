@@ -24,3 +24,9 @@
         children:
         - Contraloria Bogota:
             post: planes_de_mejoramiento/documentacion/cargue_bogota
+- KRONOS Sistema Financiero:
+    children:
+    - Analisis:
+        children:
+        - Orden de Pago:
+            post: Kronos/orden_pago/analisis/analisis_actividades
