@@ -26,12 +26,15 @@ Dado los tipos de nóminas al interior de la Universidad Distrital, podemos espe
 También son las que se le realizan a empresas que brindan sus servicios o productos específico; un ejemplo puede ser CODENSA, que ofrece el servicios de agua, o empresas que venden productos como computadores, tableros, mesas, etc. Todos estos son beneficiarios los cuales por pago de sus producto o servicios la entidad que los obtenga realizará órdenes de pago de proveedores.
 
 **Orden de Pago Planta**:
+
 **Orden de Pago Pensionados**:
+
 **Orden de Pago Hora Cátedra**:
+
 **Orden de Pago Hora Proveedores**:
 
 
-Definición del proceso
+Definición del Proceso
 ----------------------
 
 Un módulo de registro de órdenes de pago, que sustente periódicamente el pago de la entidad u organización a un beneficiario "tercero" por efecto de productos o servicios.
@@ -46,11 +49,35 @@ Son las entidades que interactúan con el proceso o forman parte del mismo.
 Modelo y Notación de Procesos de Negocio (BPMN)
 -----------------------------------------------
 
-
+![Figura 2. BPMN Orden Pago ](../img/OrdenPagoProveedor.jpg)
 
 
 Descripción de las Actividades del proceso
 ------------------------------------------
+### Actividad 1: Diligenciar Registro Orden de Pago.
+
+Diligenciar Registro Orden de pago: El usuario realizará el ingreso pertinente de datos  para registrar la orden de pago.
+
+### Actividad 2: Orden de pago Registrada:.
+
+El sistema registrará los valores por concepto por los cuales realizó la orden de pago y  las cuentas contable que fueron afectadas.
+
+
+Notificación Creación Orden de Pago, en Espera de Aprobación Contable:  El sistema notificará por medio de un correo electrónico la creación de la orden de pago al usuario contabilidad.
+
+Desaprobación Contable: El sistema notificará por medio de un correo electrónico al usuario central de cuentas la  desaprobación contable por parte del usuario contabilidad.
+
+Notificación Aprobación Contable, en Espera de Aprobación Presupuestal: El sistema notificará por medio de un correo electrónico la aprobación contable al usuario presupuesto.
+
+Radicada:  El usuario tesorería cambiará el estado de la orden de pago a radicada.
+
+Girada:  El usuario tesorería cambiará el estado de la orden de pago de radicada a girada.
+
+Desaprobación Presupuestal: El sistema notifica por medio  de un correo electrónico la desaprobación presupuestal al usuario central de cuentas.
+
+
+
+
 ### Actividad 1: Registrar Plan de Mejoramiento formulado y asignar el área responsable y corresponsable.
 
 * Tarea 1.1: Realizar el registro de los planes de mejoramiento formulados por cada área
