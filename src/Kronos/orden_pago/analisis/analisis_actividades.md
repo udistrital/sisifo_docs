@@ -56,109 +56,99 @@ Descripción de las Actividades del proceso
 ------------------------------------------
 ### Actividad 1: Diligenciar Registro Orden de Pago.
 
-Diligenciar Registro Orden de pago: El usuario realizará el ingreso pertinente de datos  para registrar la orden de pago.
+* Tarea 1.0: Realizar el ingreso pertinente de datos  para registrar la orden de pago.
 
-### Actividad 2: Orden de pago Registrada:.
+* Tarea 1.1: Valirdar datos obligatorios y controles de campos.
 
-El sistema registrará los valores por concepto por los cuales realizó la orden de pago y  las cuentas contable que fueron afectadas.
-
-
-Notificación Creación Orden de Pago, en Espera de Aprobación Contable:  El sistema notificará por medio de un correo electrónico la creación de la orden de pago al usuario contabilidad.
-
-Desaprobación Contable: El sistema notificará por medio de un correo electrónico al usuario central de cuentas la  desaprobación contable por parte del usuario contabilidad.
-
-Notificación Aprobación Contable, en Espera de Aprobación Presupuestal: El sistema notificará por medio de un correo electrónico la aprobación contable al usuario presupuesto.
-
-Radicada:  El usuario tesorería cambiará el estado de la orden de pago a radicada.
-
-Girada:  El usuario tesorería cambiará el estado de la orden de pago de radicada a girada.
-
-Desaprobación Presupuestal: El sistema notifica por medio  de un correo electrónico la desaprobación presupuestal al usuario central de cuentas.
+* Tarea 1.2: Notificar Registro exitoso o fallido.
 
 
+### Actividad 2: Orden de pago Registrada.
+
+* Tarea 2.0 : El sistema registrará los valores por concepto por los cuales realizó la orden de pago y  las cuentas contable que fueron afectadas.
 
 
-### Actividad 1: Registrar Plan de Mejoramiento formulado y asignar el área responsable y corresponsable.
+### Actividad 3: Notificación Creación Orden de Pago, en Espera de Aprobación Contable.
 
-* Tarea 1.1: Realizar el registro de los planes de mejoramiento formulados por cada área
-* Tarea 1.2: Asignar la áreas responsables y corresponsables del Plan de Mejoramiento registrado.
-* Tarea 1.3: Informar a las áreas de la asignación del Plan de Mejoramiento.
+* Tarea 3.0: El sistema notificará por medio de un correo electrónico la creación de la orden de pago al usuario contabilidad.
 
-### Actividad 2: Dar por informados las áreas responsables y corresponsables y asignar de funcionarios encargados de reportar la información de avance.
 
-* Tarea 1.1: Aceptar el Plan de Mejoramiento asignado.
-* Tarea 1.2: Asignar encargado de reportar información de avance sobre las actividades.
+### Actividad 4: Desaprobación Contable.
 
-### Actividad 3: Registrar mensualmente los avances por actividad.
+* Tarea 4.0 :El sistema notificará por medio de un correo electrónico al usuario central de cuentas la  desaprobación contable por parte del usuario contabilidad.
 
-* Tarea 1.1: Realizar el registro mensual de avance por actividad formulada en el Plan de mejoramiento.
-* Tarea 1.2: Reportar evidencias que soporten los registros de avance.
-* Tarea 1.3: Informar al directivo del área sobre los registros de avance y evidencias reportadas.
 
-### Actividad 4: Dar visto bueno por parte del directivo del área sobre el registro mensual de los avances por actividad.
+### Actividad 5: Notificación Aprobación Contable, en Espera de Aprobación Presupuestal.
 
-* Tarea 1.1:  Revisar el registro mensual de avance por actividad formulada en el Plan de mejoramiento.
-* Tarea 1.2: Aprobar el registro mensual de avance por actividad.
+* Tarea 5.0: El sistema notificará por medio de un correo electrónico la aprobación contable al usuario presupuesto.
 
-### Actividad 5: Revisar por parte de la OAP los avances reportados por las áreas y registrar las observaciones al proceso.
+### Actividad 6: Radicada.
 
-* Tarea 1.1: Revisar mensualmente los registros de avance aprobados por el directivo del área.
-* Tarea 1.2: Registrar observaciones a los avances reportados.
+* Tarea 6.0: El usuario tesorería cambiará el estado de la orden de pago a radicada.
 
-### Actividad 6: Revisar por parte de la OCI los avances reportados por las áreas y tener en cuenta las observaciones al proceso realizadas por la OAP, para el monitoreo, registro de observaciones al seguimiento del proceso y  con calificativo de avance.
+### Actividad 7: Desaprobación Presupuestal.
 
-* Tarea 1.1: Revisar mensualmente las observaciones realizadas por la OAP y los registros de avance aprobados por el directivo del área.
-* Tarea 1.2: Registrar observaciones a los avances reportados.
-* Tarea 1.3: Realizar monitoreo a los avances de los Planes de Mejoramiento de las áreas.
-* Tarea 1.4: Indicar porcentaje de avance por cada actividad formulada en el Plan de Mejoramiento teniendo en cuenta metodología de los entes de control.
+* Tarea 7.0: El sistema notifica por medio  de un correo electrónico la desaprobación presupuestal al usuario central de cuentas.
 
-### Actividad 7: Generar reportes e informes de los planes de mejoramiento.
+### Actividad 8: Girada.
 
-* Tarea 1.1: Generar reporte de seguimiento (matriz consolidada de lo abierto es decir que la Contralorías no han dado cierre todavía).
-* Tarea 1.2: Generar reporte de avance en los planes de mejoramiento (Matriz consolidada con indicadores de avance para cada acción y/o actividad).
-* Tarea 1.3: Generar históricos (por hallazgo y/o actividad. Trazabilidad del avance y cumplimiento).
-* Tarea 1.4: Generar reportes con destino externo según formato y metodología de cada ente de control.
-* Tarea 1.5: Generar informe por área responsable.
-* Tarea 1.6: Generar reportes de alertas tempranas, en cuanto avances, plazos y demás criterios para contribuir con el cumplimiento de los planes de mejoramiento, dentro de sus roles de evaluación y seguimiento y asesoría.
+* Tarea 8.0: El usuario tesorería cambiará el estado de la orden de pago de radicada a girada.
 
-### Actividad 8: Solicitar reformulación  de actividades por parte del área y aprobación por parte del DG y OCI.
 
-* Tarea 1.1: Registrar la solicitud de reformulación de las actividades formuladas para cumplimiento de la actividad.
-* Tarea 1.2: Justificar la solicitud de reformulación de las actividades y/o fechas.
-* Tarea 1.3: Aprobar la solicitud de reformulación.
+Workflow
+-----------------------------------------------
 
-### Actividad 9: Registrar estado de la actividad a la fecha de compromiso de cumplimiento.
+![Figura 3. Workflow Orden Pago ](../img/WordFlowOp.png)
 
-* Tarea 1.1: Revisar los porcentajes de avance registrados por actividad.
-* Tarea 1.2: Revisar el último reporte de avance sobre la actividad.
-* Tarea 1.3: Asignar el estado de la actividad a la fecha de compromiso de cumplimiento.
+### Elaborado:
 
-### Actividad 10: Definir el estado de la actividad al cierre según concepto del ente de control.
+* **Validación**: Verifica que los campos requeridos para realizar la orden estén previamente diligenciados.
+* **Grupo o rol**: central de cuenta.
+* **Acción disparadores/trigger**: Al realizar registros el registro de la orden de pago el estado por defecto es elaborado.
 
-* Tarea 1.1: Revisar el estado de la actividad a la fecha de compromiso de cumplimiento.
-* Tarea 1.2: Revisar los porcentajes de avance registrados por actividad.
-* Tarea 1.3: Revisar el último reporte de avance sobre la actividad.
-* Tarea 1.4: Asignar estado de la actividad al cierre según concepto del ente del control.
+### Aprobación Contable:
+* **Validación**: Ninguna.
+* **Grupo o rol**: Contabilidad.
+* **Acción disparadores/trigger**: Acción manual, al usuario contabilidad cambia el estado de elaborado a Aprobado Contable.
 
-### Actividad 11: Generar alertas.
+### Desaprobación Contable:
 
-* Tarea 1.1: Enviar correo electrónico del jefe del área, a la OAP y a la OCI de las actividades vencidas, próximas a vencerse y/o sin reporte.
-* Tarea 1.2: Enviar al correo del Jefe de área responsable de las fechas establecidas para reporte, en cada periodo.
+* **Validación**: Ninguna.
+* **Grupo o rol**: Contabilidad.
+* **Acción disparadores/trigger**: Acción manual, al usuario contabilida cambia el estado de elaborado a Desaprobación Contable.
 
-Relación de Actividades: Entradas – Proceso – Salidas
------------------------------------------------------
-![Screenshot](img/relacion_entradas_salidas.jpg)
 
-Entorno y Restricciones
------------------------
+### Desaprobación Presupuestal:
+* **Validación**: Ninguna.
+* **Grupo o rol**: Presupuesto.
+* **Acción disparadores/trigger**: Acción manual, al usuario Presupuesto cambia el estado de Aprobación Contable  a Desaprobación Presupuestal.
 
-Aquellos elementos externos al proceso, que se consideran dados, pero no obstante afectan su comportamiento.
 
-**Elementos del Entorno**
-- Informe definitivo de observaciones por parte de los ente de control.
-Plan de Mejoramiento formulado.
+### Aprobación Presupuestal:
+* **Validación**: Ninguna.
+* **Grupo o rol**: Presupuesto.
+* **Acción disparadores/trigger**: Acción manual, al usuario Presupuesto cambia el estado de Aprobación Contable  a Aprobación Presupuestal.
 
-**Restricciones**
-- Plan de Mejoramiento mal formulado.
-- Registro fuera de los tiempos de los avances realizados sobre la actividad.
-- No cumplimiento de los compromisos registrados en el Plan de  Mejoramiento.
+
+### Enviada:
+* **Validación**: Ninguna.
+* **Grupo o rol**: Presupuesto.
+* **Acción disparadores/trigger**: Acción manual, al usuario Presupuesto cambia el estado de Aprobación Presupuestal a Validado.
+
+
+### Radicada:
+* **Validación**: Ninguna.
+* **Grupo o rol**: Tesorería.
+* **Acción disparadores/trigger**: Acción manual, al usuario Tesorería cambia el estado de Enviada a Radicada.
+
+
+### Girada:
+* **Validación**: Ninguna.
+* **Grupo o rol**: Tesorería.
+* **Acción disparadores/trigger**: Acción manual, al usuario Tesorería cambia el estado de  Radicada la Girada.
+
+
+Arquitectura de información
+-----------------------------------------------
+
+![Figura 4. Arquitectura de Información Orden Pago ](../img/ArquitecturaInformacion.png)
