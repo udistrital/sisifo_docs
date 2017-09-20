@@ -59,4 +59,4 @@ Workflow
 Arquitectura de información
 -----------------------------------------------
 
-![Figura 4. Arquitectura de Información Orden Pago ](../img/ArquitecturaInformacion.png)
+![Figura 4. Arquitectura de Información Orden Pago ](../img/arquitectura_de_informacion.jpg)
