@@ -35,7 +35,7 @@ Son las entidades que interactúan con el proceso o forman parte del mismo.
 Modelo y Notación de Procesos de Negocio (BPMN)
 -----------------------------------------------
 
-![Figura 2. BPMN Orden Pago ](../img/OrdenPagoProveedor.jpg)
+![Figura 2. BPMN Orden Pago ](../../orden_pago/img/OrdenPagoProveedor.jpg)
 
 
 Descripción de las Actividades del proceso
@@ -48,7 +48,7 @@ Descripción de las Actividades del proceso
 Workflow
 -----------------------------------------------
 
-![Figura 3. Workflow Orden Pago ](../img/WordFlowOp.png)
+![Figura 3. Workflow Orden Pago ](../../orden_pago/img/WordFlowOp.png)
 
 ### Girada:
 * **Validación**: Ninguna.
