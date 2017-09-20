@@ -6,7 +6,7 @@ author: José Javier Vargas Serrato
 Análisis de Actividades
 =======================
 
-Registro y seguimiento Orden de Pago
+Registro y seguimiento Giro Ordenes de Pago
 ==========================
 
 [TOC]
@@ -14,44 +14,26 @@ Registro y seguimiento Orden de Pago
 Introducción
 ------------
 
-La orden de pago es el instrumento por medio del cual una entidad pone a disposición de un beneficiario una suma de dinero por efecto de pago de productos o servicios. La orden de pago pueden clasificarse  por el tipo de nómina del beneficiario al cual se le dispone el dinero.
+Los giros de las órdenes de pago es la  actividad final en el [workflo de la orden de pago](/Kronos/orden_pago/analisis/analisis_actividades.html#workflow).
 
-Dado los tipos de nóminas al interior de la Universidad Distrital, podemos especificar tipos de Órdenes de pago que se efectúan para estas nóminas.
-
-
-![Figura 1. Nominas UD](../img/nominas.jpg)
-
-
-**Orden de Pago Proveedor O Contratista**:  Las órdenes de pago denominadas proveedor son las que se le realizan a empleados en la modalidad de contratación de prestación de servicio (CPS), los cuales brindan su talento humano a la entidad.
-También son las que se le realizan a empresas que brindan sus servicios o productos específico; un ejemplo puede ser CODENSA, que ofrece el servicios de agua, o empresas que venden productos como computadores, tableros, mesas, etc. Todos estos son beneficiarios los cuales por pago de sus producto o servicios la entidad que los obtenga realizará órdenes de pago de proveedores.
-
-**Orden de Pago Planta**:
-
-**Orden de Pago Pensionados**:
-
-**Orden de Pago Hora Cátedra**:
-
-**Orden de Pago Hora Proveedores**:
+En esta actividad se selecciona una o varias órdenes para ser procesadas y generen un movimiento contable que permitirá a la entidad bancaria finalmente realizar el pago a cada uno de los involucrados en cada una de las órdenes de pago seleccionada.
 
 
 Definición del Proceso
 ----------------------
 
-Un módulo de registro de órdenes de pago, que sustente periódicamente el pago de la entidad u organización a un beneficiario "tercero" por efecto de productos o servicios.
+Un módulo en el cual se pueda seleccionar una o varias órdenes de pago en estado Radicada, se genere el cambio de estado de **Radicada** a  **Girado**, se generen los respectivos documentos con las estructura pertinente para la entidad bancaria encargada de realizar los pagos a los beneficiarios.
 
-
-Entidades Identificadas (Responsables y tareas)
+Entidades Identificadas
 -----------------------------------------------
 
 Son las entidades que interactúan con el proceso o forman parte del mismo.
 
-**Beneficiario o Proveedor (Clientes)**: Persona o usuario a la cual por su trabajo, producto o servicio se le realizará una orden de pago.
+**Orden de Pago**:
 
-**Central de Cuentas (Actor)**: Usuario encargado de registrar o crear la orden de pago y solicitar la aprobación contable. 
+**Cuenta Bancaria**:
 
-**Contabilidad (Actor) **: Usuario encargado de realizar a aprobación o desaprobación contable de las órdenes de pago.
 
-**Presupuesto (Actor) **: Usuario encargado de realizar a aprobación o desaprobación presupuestal de las órdenes de pago y ejecutar el estado enviada de dichas órdenes con aprobación presupuestal. 
 
 Modelo y Notación de Procesos de Negocio (BPMN)
 -----------------------------------------------

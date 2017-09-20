@@ -30,3 +30,5 @@
         children:
         - Orden de Pago:
             post: Kronos/orden_pago/analisis/analisis_actividades
+        - Giros Orden de Pago:
+            post: Kronos/giro_orden_pago/analisis/analisis_actividades
