@@ -1,4 +1,4 @@
-# Documentacion OAS
+# Documentacion Sistema SISIFO
 
 Este repositorio contiene la documentación del sistema sísifo en formato Markdown y gracias a la herramienta pykwiki, esta documentación es proporcionada en formato html.
 
