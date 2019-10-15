@@ -7,7 +7,7 @@ Este repositorio contiene la documentación del sistema sísifo en formato Markd
 ## Correr docker
 
     docker build --tag=docs_sisifo . --no-cache
-    docker run -p 5000:5000 docs_sisifo
+    docker run -p 80:80 docs_sisifo
 
 
 

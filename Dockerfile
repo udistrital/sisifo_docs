@@ -19,9 +19,9 @@ RUN cp src/* docroot/ -r
 RUN pykwiki cache -f
 
 # Make port 5000 available to the world outside this container
-EXPOSE 5000
+EXPOSE 80
 
 WORKDIR /app/docroot/
 
 # Run app.py when the container launches
-CMD ["python", "-m", "SimpleHTTPServer", "5000"]
+CMD ["python", "-m", "SimpleHTTPServer", "80"]
